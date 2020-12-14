@@ -18,3 +18,12 @@ Come up with 3 more questions that can be answered with this data set.
 * Given all the weather data here, find the average precipitation per month, and the median precipitation.
 * What’s the average number of bikes at a given bike station?
 * When a bike station is modified, is it more likely that it’ll lose bikes or gain bikes? How do you know?
+
+
+##  data sets are token from :
+* [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from more than 16,500 games
+* [Cycle Share Data set](https://www.kaggle.com/pronto/cycle-share-dataset) - Bicycle Trip Data from Seattle’s Cycle Share System
+
+## [THE LINK OF REPO](https://github.com/Sajanader/vg-stats)
+
+
